@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luu
 - 💞️ I'm from VietNam 
-- 👀 I’m like singing, listen o music and movie
+- 👀 I’m like singing, listen to music and movie
 - 🌱 I’m currently learning in PKA university
 
 <!---
